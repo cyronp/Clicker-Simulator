@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Modak&family=Sono:wght@200..800&display=swap');
+
+body {
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Bebas Neue", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+div#main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5em;
+  width: 100%;
+}
+
+a.mainText, p.mainText {
+  font-size: 3rem;
+}
+
+div#button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+button#cookieButton, img#cookieButton {
+  display: flex;
+  justify-content: center;
+  height: 200px;
+  width: 200px;
+}
+
+button#cookieButton{
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  outline: inherit;
+}
+
+#cookieButon:hover{
+  transform: scale(5);
+}
+
+button#upgradeButton{
+  cursor: pointer;
+  background: none;
+  border-color: #6F4E37;
+  border-radius: 5px;
+  color: #6F4E37;
+  margin: 5rem 2rem 0px 2rem;
+  width: 200px;
+  height: 100px;
+  font-family: "Bebas Neue", serif;
+  font-size: 1.1rem;
+}
+
+div#upgradesTab{
+  display: flex;
+  justify-content: center;
+  align-items: center;   
+}
