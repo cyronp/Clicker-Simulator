@@ -2,7 +2,7 @@
 
 A clicking game designed to help pass the time
 
-![Preview](https://github.com/user-attachments/assets/c781bb23-b72e-4ed7-825e-4c4fe541ebc2)
+![Image](https://github.com/user-attachments/assets/31caf900-cfcf-4d02-a3f5-1d6f3a96b9d6)
 
 ## ⚒️ Technologies
 <div>
