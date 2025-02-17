@@ -16,6 +16,7 @@ This game was primarily created to learn how to use React's useState. Feel free 
 
 ## 🔃 How to start
 
+Open your terminal inside the project and run:
 ~~~javascript
 npm run dev
 ~~~
