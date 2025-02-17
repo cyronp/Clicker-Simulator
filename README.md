@@ -16,6 +16,6 @@ This game was primarily created to learn how to use React's useState. Feel free 
 
 ## 🔃 How to start
 
-ˋˋˋ
+~~~javascript
 npm run dev
- ˋˋˋ
+~~~
