@@ -13,3 +13,9 @@ A clicking game designed to help pass the time
 
 ## 📁 Project
 This game was primarily created to learn how to use React's useState. Feel free to clone it from the repository and have fun!
+
+## 🔃 How to start
+
+ˋˋˋ
+npm run dev
+ˋˋˋ
